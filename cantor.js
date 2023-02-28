@@ -3,6 +3,7 @@ function setup(){
     canva.parent('cantor-holder');
 }
 function Cantor(n, x, y, d){
+    stroke("#0037ab");
     if(n == 0){
         line(x, y, x+d, y);
     }
