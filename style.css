@@ -75,11 +75,34 @@ div.back{
     font-size: 40px;
 }
 
+p.powrot{
+    background-color: #041333;
+    margin-bottom: 150px;
+}
+
+.powrot:hover{
+    background-color: #071f54;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
 p.back{
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: #041333;
-    margin-bottom: 150px;
+}
+
+.cantorbtn:hover{
+    background-color: #071f54;
+}
+.kochbtn:hover{
+    background-color: #071f54;
+}
+.sierpinskibtn:hover{
+    background-color: #071f54;
+}
+.smokbtn:hover{
+    background-color: #071f54;
 }
